@@ -46,34 +46,12 @@
 🌐 Full-Stack Web Apps
 🏆 Hackathons & Tech Communities
 
----
-
-## 📊 **GitHub Stats & Activity**
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darshRajpu87&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=darshRajpu87&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshRajpu87&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧩 **Contribution Graph Animation**
-
-<p align="center">
-  <img src="https://github.com/darshRajpu87/darshRajpu87/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
+--
 
 ## 📫 **Let's Connect**
 
 * 📧 **Email:** [darshraj87@gmai.com](mailto:darshraj87@gmai.com)
-* 💼 **LinkedIn:** *(Add your profile link)*
-* 🐦 **Twitter/X:** *(Add your handle)*
+
 
 ---
 
