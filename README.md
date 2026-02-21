@@ -15,9 +15,9 @@
 
 ## 👀 **About Me**
 
-💡 Passionate about building clean UI, smooth UX, and scalable web apps.
-🚀 Currently exploring modern frontend architecture and automation workflows.
-🤝 Always open to collaboration, learning, and community-driven projects.
+💡 Passionate about building modern web interfaces, smooth UX, and scalable frontend systems.
+🚀 Currently focused on React ecosystem, automation workflows, and improving full-stack skills.
+🤝 Open to collaboration, learning opportunities, and innovative tech projects.
 
 ---
 
@@ -32,9 +32,9 @@
 ## 🌱 **Currently Learning**
 
 * ⚛️ Advanced **React.js** & **Next.js**
-* 🔷 **TypeScript** for scalable apps
-* 🛠 Backend APIs with **Node.js & Express**
-* ☁️ DevOps Basics — Docker & CI/CD
+* 🔷 **TypeScript**
+* 🛠 Backend development with **Node.js & Express**
+* ☁️ DevOps fundamentals — Docker & CI/CD
 * 🤖 Automation scripting & workflow optimization
 
 ---
@@ -43,15 +43,14 @@
 
 ✨ Open Source Projects
 🎨 UI/UX Focused Applications
-🌐 Full-Stack Web Apps
-🏆 Hackathons & Tech Communities
+🌐 Full-Stack Web Development
+🏆 Hackathons & Community Events
 
---
+---
 
-## 📫 **Let's Connect**
+## 📫 **Contact**
 
-* 📧 **Email:** [darshraj87@gmai.com](mailto:darshraj87@gmai.com)
-
+📧 **Email:** [darshraj87@gmai.com](mailto:darshraj87@gmai.com)
 
 ---
 
